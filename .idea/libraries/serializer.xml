@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="serializer">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/xalan-j_2_7_2-bin-2jars/xalan-j_2_7_2/serializer.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xalan-j_2_7_2-bin-2jars/xalan-j_2_7_2/xalan.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xalan-j_2_7_2-bin-2jars/xalan-j_2_7_2/xercesImpl.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xalan-j_2_7_2-bin-2jars/xalan-j_2_7_2/xml-apis.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xalan-j_2_7_2-bin-2jars/xalan-j_2_7_2/xsltc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

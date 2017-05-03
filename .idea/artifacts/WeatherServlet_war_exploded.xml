@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WeatherServlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeatherServlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WeatherServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WeatherServlet" />
+          <element id="module-output" name="Data" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="serializer" />
+          <element id="library" level="project" name="htmlcleaner-2.19" />
+          <element id="library" level="project" name="json-20090211" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
